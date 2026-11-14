@@ -1,0 +1,8 @@
+
+Hello World!
+This is a simple text processing framework.
+ERROR: Something went wrong.
+C++ is a powerful programming language.
+I love programming.
+Another ERROR message.
+dog

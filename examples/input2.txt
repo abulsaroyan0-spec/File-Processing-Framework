@@ -1,0 +1,7 @@
+apple banana orange
+APPLE BANANA ORANGE
+This is another example.
+WARNING: Check the input file.
+ERROR: File could not be opened.
+Programming with C++ is interesting.
+apple pie is delicious.
